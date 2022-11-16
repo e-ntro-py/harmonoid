@@ -81,8 +81,6 @@ If you enjoy using this music player, please consider buying me a coffee.
 
 - Folders view.
 - Material You / Material Design 3 implementation.
-- libmpv flags & IPC support.
-- Window position & state save/restore.
 - Genre tab.
 - Third-party themes support.
 - Equalizer.
